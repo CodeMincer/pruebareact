@@ -11,7 +11,7 @@ export function FooterContainer() {
                 <Footer.Title>Sobre nosotros</Footer.Title>
                     <Footer.Link href="#">Historia</Footer.Link>
                     <Footer.Link href="#">Nuestro compromiso</Footer.Link>
-                    <Footer.Link href="#">Opiniones</Footer.Link>
+                    <Footer.Link href="#">Prensa</Footer.Link>
                 </Footer.Column>
                 <Footer.Column>
                 <Footer.Title>Legal</Footer.Title>
@@ -22,10 +22,10 @@ export function FooterContainer() {
                 </Footer.Column>
                 <Footer.Column>
                 <Footer.Title>Contacta con nosotros</Footer.Title>
-                    <Footer.Link href="#">United States</Footer.Link>
-                    <Footer.Link href="#">United Kingdom</Footer.Link>
-                    <Footer.Link href="#">Australia</Footer.Link>
-                    <Footer.Link href="#">Support</Footer.Link>
+                    <Footer.Link href="#">Ayuda al usuario</Footer.Link>
+                    <Footer.Link href="#">Empresas</Footer.Link>
+                    <Footer.Link href="#">Publicidad</Footer.Link>
+                    <Footer.Link href="#">Trabaja con nosotros</Footer.Link>
                 </Footer.Column>
                 <Footer.Column>
                 <Footer.Title>Redes sociales</Footer.Title>
