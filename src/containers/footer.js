@@ -21,7 +21,7 @@ export function FooterContainer() {
                     <Footer.Link href="#">Envíos y devoluciones</Footer.Link>
                 </Footer.Column>
                 <Footer.Column>
-                <Footer.Title>Contacta con nosotros</Footer.Title>
+                <Footer.Title>Contacta</Footer.Title>
                     <Footer.Link href="#">Ayuda al usuario</Footer.Link>
                     <Footer.Link href="#">Empresas</Footer.Link>
                     <Footer.Link href="#">Publicidad</Footer.Link>
